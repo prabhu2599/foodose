@@ -1,0 +1,30 @@
+{
+  "files": {
+    "app.js": "/static/js/app.220bf7df.chunk.js",
+    "app.js.map": "/static/js/app.220bf7df.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.aa7db1f5.chunk.js": "/static/js/2.aa7db1f5.chunk.js",
+    "static/js/2.aa7db1f5.chunk.js.map": "/static/js/2.aa7db1f5.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.aa7db1f5.chunk.js.LICENSE.txt": "/static/js/2.aa7db1f5.chunk.js.LICENSE.txt",
+    "static/media/Dosa.jpeg": "/static/media/Dosa.f8a3d41f.jpeg",
+    "static/media/Margherita.jpg": "/static/media/Margherita.62283a4a.jpg",
+    "static/media/PalakBiryani.jpeg": "/static/media/PalakBiryani.f3f7215b.jpeg",
+    "static/media/PaneerDosa.jpg": "/static/media/PaneerDosa.d2615191.jpg",
+    "static/media/Pizza.jpeg": "/static/media/Pizza.29cc9124.jpeg",
+    "static/media/VegBiryani.jpeg": "/static/media/VegBiryani.f5a565d4.jpeg",
+    "static/media/empty-bag.png": "/static/media/empty-bag.25ccb8dc.png",
+    "static/media/shopping-bag.png": "/static/media/shopping-bag.48bc0b58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.aa7db1f5.chunk.js",
+    "static/js/app.220bf7df.chunk.js"
+  ]
+}
